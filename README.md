@@ -1,6 +1,8 @@
 Mamute QA [![Build Status](https://secure.travis-ci.org/caelum/mamute.png)](http://travis-ci.org/caelum/mamute)
 ======
 
+## ...
+
 ## How to set up an instance of mamute
 
 First of all, you need to setup an MySQL database. The default database name is 
